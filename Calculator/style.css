@@ -1,0 +1,35 @@
+
+
+
+
+
+    #calc {
+      width: 250px;
+      border-radius: 3px;
+      padding: 20px;
+      margin: auto;
+    }
+
+    input {
+      width: 20px;
+      border-radius: 5px;
+      padding: 26px;
+      margin: 5px;
+      font-size: 15px;
+    }
+
+
+    #clear {
+      width: 270px;
+      padding: 20px;
+
+    }
+
+    .formstyle {
+      width: 300px;
+      height: 530px;
+      margin: auto;
+      border-radius: 5px;
+      padding: 20px;
+    }
+  
