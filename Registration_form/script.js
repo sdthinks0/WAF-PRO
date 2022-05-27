@@ -7,8 +7,6 @@ const email = document.getElementById("email");
 const password = document.getElementById("password");
 const phoneNumber = document.getElementById("phoneNumber");
 const gender = document.registration;
-const language = document.getElementById("language");
-const zipcode = document.getElementById("zipcode");
 
 function formValidation() {
   
